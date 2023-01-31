@@ -1,6 +1,0 @@
-[submodule "test-tasks-1"]
-	path = test-tasks-1
-	url = https://github.com/jason-johnson/test-tasks-1.git
-[submodule "test-tasks-2"]
-	path = test-tasks-2
-	url = https://github.com/jason-johnson/test-tasks-2.git
