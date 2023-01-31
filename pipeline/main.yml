@@ -7,8 +7,5 @@ pool:
 jobs:
   - job: nothing
     steps:
-      - checkout: self
-        submodules: true
-
       - bash: |
           echo "did nothing"
